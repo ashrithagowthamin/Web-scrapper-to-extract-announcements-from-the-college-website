@@ -1,4 +1,3 @@
-Sure! Here's the README content written like a plain text document, without any markdown formatting or code boxes—perfect for saving as a .txt or .doc file:
 
 CBIT Website Scraper Documentation
 Overview:
@@ -38,9 +37,9 @@ If you want to scrape specific sections such as news, events, or faculty details
 - Use developer tools (press F12) to inspect the HTML structure.
 - Identify the tag and class name of the section you want.
 - Modify the script to target those tags (e.g., div, span, h2, etc.).
-If you need help customizing the script for a specific section, feel free to ask.
-
+- 
 License:
 This project is intended for educational and personal use only. Please respect the website’s terms of service when scraping content.
+
 
 
